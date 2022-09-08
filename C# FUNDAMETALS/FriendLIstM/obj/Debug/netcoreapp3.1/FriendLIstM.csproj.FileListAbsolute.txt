@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\MidExam\FriendLIstM\bin\Debug\netcoreapp3.1\FriendLIstM.exe
+C:\Users\valch\source\repos\MidExam\FriendLIstM\bin\Debug\netcoreapp3.1\FriendLIstM.deps.json
+C:\Users\valch\source\repos\MidExam\FriendLIstM\bin\Debug\netcoreapp3.1\FriendLIstM.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\FriendLIstM\bin\Debug\netcoreapp3.1\FriendLIstM.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\FriendLIstM\bin\Debug\netcoreapp3.1\FriendLIstM.dll
+C:\Users\valch\source\repos\MidExam\FriendLIstM\bin\Debug\netcoreapp3.1\FriendLIstM.pdb
+C:\Users\valch\source\repos\MidExam\FriendLIstM\obj\Debug\netcoreapp3.1\FriendLIstM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\FriendLIstM\obj\Debug\netcoreapp3.1\FriendLIstM.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\FriendLIstM\obj\Debug\netcoreapp3.1\FriendLIstM.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\FriendLIstM\obj\Debug\netcoreapp3.1\FriendLIstM.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\FriendLIstM\obj\Debug\netcoreapp3.1\FriendLIstM.dll
+C:\Users\valch\source\repos\MidExam\FriendLIstM\obj\Debug\netcoreapp3.1\FriendLIstM.pdb
+C:\Users\valch\source\repos\MidExam\FriendLIstM\obj\Debug\netcoreapp3.1\FriendLIstM.genruntimeconfig.cache

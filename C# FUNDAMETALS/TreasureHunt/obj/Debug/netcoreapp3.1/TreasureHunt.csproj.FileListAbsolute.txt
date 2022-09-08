@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\MidExam\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.exe
+C:\Users\valch\source\repos\MidExam\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.deps.json
+C:\Users\valch\source\repos\MidExam\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.dll
+C:\Users\valch\source\repos\MidExam\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.pdb
+C:\Users\valch\source\repos\MidExam\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.dll
+C:\Users\valch\source\repos\MidExam\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.pdb
+C:\Users\valch\source\repos\MidExam\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.genruntimeconfig.cache

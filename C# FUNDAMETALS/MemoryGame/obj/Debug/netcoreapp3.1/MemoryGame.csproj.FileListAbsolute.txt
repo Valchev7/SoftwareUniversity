@@ -1,0 +1,14 @@
+C:\Users\valch\source\repos\MidExam\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.exe
+C:\Users\valch\source\repos\MidExam\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.deps.json
+C:\Users\valch\source\repos\MidExam\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\valch\source\repos\MidExam\MemoryGame\bin\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.dll
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.pdb
+C:\Users\valch\source\repos\MidExam\MemoryGame\obj\Debug\netcoreapp3.1\MemoryGame.genruntimeconfig.cache

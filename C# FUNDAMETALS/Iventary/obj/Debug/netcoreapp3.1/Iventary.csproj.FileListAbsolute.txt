@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\MidExam\Iventary\bin\Debug\netcoreapp3.1\Iventary.exe
+C:\Users\valch\source\repos\MidExam\Iventary\bin\Debug\netcoreapp3.1\Iventary.deps.json
+C:\Users\valch\source\repos\MidExam\Iventary\bin\Debug\netcoreapp3.1\Iventary.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\Iventary\bin\Debug\netcoreapp3.1\Iventary.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\Iventary\bin\Debug\netcoreapp3.1\Iventary.dll
+C:\Users\valch\source\repos\MidExam\Iventary\bin\Debug\netcoreapp3.1\Iventary.pdb
+C:\Users\valch\source\repos\MidExam\Iventary\obj\Debug\netcoreapp3.1\Iventary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\Iventary\obj\Debug\netcoreapp3.1\Iventary.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\Iventary\obj\Debug\netcoreapp3.1\Iventary.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\Iventary\obj\Debug\netcoreapp3.1\Iventary.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\Iventary\obj\Debug\netcoreapp3.1\Iventary.dll
+C:\Users\valch\source\repos\MidExam\Iventary\obj\Debug\netcoreapp3.1\Iventary.pdb
+C:\Users\valch\source\repos\MidExam\Iventary\obj\Debug\netcoreapp3.1\Iventary.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\MidExam\proba\bin\Debug\netcoreapp3.1\proba.exe
+C:\Users\valch\source\repos\MidExam\proba\bin\Debug\netcoreapp3.1\proba.deps.json
+C:\Users\valch\source\repos\MidExam\proba\bin\Debug\netcoreapp3.1\proba.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\proba\bin\Debug\netcoreapp3.1\proba.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\proba\bin\Debug\netcoreapp3.1\proba.dll
+C:\Users\valch\source\repos\MidExam\proba\bin\Debug\netcoreapp3.1\proba.pdb
+C:\Users\valch\source\repos\MidExam\proba\obj\Debug\netcoreapp3.1\proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\proba\obj\Debug\netcoreapp3.1\proba.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\proba\obj\Debug\netcoreapp3.1\proba.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\proba\obj\Debug\netcoreapp3.1\proba.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\proba\obj\Debug\netcoreapp3.1\proba.dll
+C:\Users\valch\source\repos\MidExam\proba\obj\Debug\netcoreapp3.1\proba.pdb
+C:\Users\valch\source\repos\MidExam\proba\obj\Debug\netcoreapp3.1\proba.genruntimeconfig.cache

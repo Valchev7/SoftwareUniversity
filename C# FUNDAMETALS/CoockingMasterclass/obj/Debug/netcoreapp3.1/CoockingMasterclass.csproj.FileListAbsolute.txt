@@ -1,0 +1,14 @@
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\bin\Debug\netcoreapp3.1\CoockingMasterclass.exe
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\bin\Debug\netcoreapp3.1\CoockingMasterclass.deps.json
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\bin\Debug\netcoreapp3.1\CoockingMasterclass.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\bin\Debug\netcoreapp3.1\CoockingMasterclass.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\bin\Debug\netcoreapp3.1\CoockingMasterclass.dll
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\bin\Debug\netcoreapp3.1\CoockingMasterclass.pdb
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.csproj.AssemblyReference.cache
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.dll
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.pdb
+C:\Users\valch\source\repos\MidExam\CoockingMasterclass\obj\Debug\netcoreapp3.1\CoockingMasterclass.genruntimeconfig.cache

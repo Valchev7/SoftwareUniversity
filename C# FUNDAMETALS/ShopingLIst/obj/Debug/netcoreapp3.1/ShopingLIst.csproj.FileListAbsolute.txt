@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\MidExam\ShopingLIst\bin\Debug\netcoreapp3.1\ShopingLIst.exe
+C:\Users\valch\source\repos\MidExam\ShopingLIst\bin\Debug\netcoreapp3.1\ShopingLIst.deps.json
+C:\Users\valch\source\repos\MidExam\ShopingLIst\bin\Debug\netcoreapp3.1\ShopingLIst.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\ShopingLIst\bin\Debug\netcoreapp3.1\ShopingLIst.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\ShopingLIst\bin\Debug\netcoreapp3.1\ShopingLIst.dll
+C:\Users\valch\source\repos\MidExam\ShopingLIst\bin\Debug\netcoreapp3.1\ShopingLIst.pdb
+C:\Users\valch\source\repos\MidExam\ShopingLIst\obj\Debug\netcoreapp3.1\ShopingLIst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\ShopingLIst\obj\Debug\netcoreapp3.1\ShopingLIst.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\ShopingLIst\obj\Debug\netcoreapp3.1\ShopingLIst.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\ShopingLIst\obj\Debug\netcoreapp3.1\ShopingLIst.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\ShopingLIst\obj\Debug\netcoreapp3.1\ShopingLIst.dll
+C:\Users\valch\source\repos\MidExam\ShopingLIst\obj\Debug\netcoreapp3.1\ShopingLIst.pdb
+C:\Users\valch\source\repos\MidExam\ShopingLIst\obj\Debug\netcoreapp3.1\ShopingLIst.genruntimeconfig.cache

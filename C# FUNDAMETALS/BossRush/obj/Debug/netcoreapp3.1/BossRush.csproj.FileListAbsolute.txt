@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\finalExam\BossRush\bin\Debug\netcoreapp3.1\BossRush.exe
+C:\Users\valch\source\repos\finalExam\BossRush\bin\Debug\netcoreapp3.1\BossRush.deps.json
+C:\Users\valch\source\repos\finalExam\BossRush\bin\Debug\netcoreapp3.1\BossRush.runtimeconfig.json
+C:\Users\valch\source\repos\finalExam\BossRush\bin\Debug\netcoreapp3.1\BossRush.runtimeconfig.dev.json
+C:\Users\valch\source\repos\finalExam\BossRush\bin\Debug\netcoreapp3.1\BossRush.dll
+C:\Users\valch\source\repos\finalExam\BossRush\bin\Debug\netcoreapp3.1\BossRush.pdb
+C:\Users\valch\source\repos\finalExam\BossRush\obj\Debug\netcoreapp3.1\BossRush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\finalExam\BossRush\obj\Debug\netcoreapp3.1\BossRush.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\finalExam\BossRush\obj\Debug\netcoreapp3.1\BossRush.AssemblyInfo.cs
+C:\Users\valch\source\repos\finalExam\BossRush\obj\Debug\netcoreapp3.1\BossRush.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\finalExam\BossRush\obj\Debug\netcoreapp3.1\BossRush.dll
+C:\Users\valch\source\repos\finalExam\BossRush\obj\Debug\netcoreapp3.1\BossRush.pdb
+C:\Users\valch\source\repos\finalExam\BossRush\obj\Debug\netcoreapp3.1\BossRush.genruntimeconfig.cache

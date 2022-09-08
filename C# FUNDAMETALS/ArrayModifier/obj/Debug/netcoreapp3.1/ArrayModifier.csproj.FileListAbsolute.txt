@@ -1,0 +1,14 @@
+C:\Users\valch\source\repos\MidExam\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.exe
+C:\Users\valch\source\repos\MidExam\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.deps.json
+C:\Users\valch\source\repos\MidExam\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.dll
+C:\Users\valch\source\repos\MidExam\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.pdb
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.csproj.AssemblyReference.cache
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.dll
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.pdb
+C:\Users\valch\source\repos\MidExam\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\MidExam\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.exe
+C:\Users\valch\source\repos\MidExam\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.deps.json
+C:\Users\valch\source\repos\MidExam\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.dll
+C:\Users\valch\source\repos\MidExam\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.pdb
+C:\Users\valch\source\repos\MidExam\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.dll
+C:\Users\valch\source\repos\MidExam\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.pdb
+C:\Users\valch\source\repos\MidExam\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.genruntimeconfig.cache

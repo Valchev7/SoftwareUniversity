@@ -1,0 +1,13 @@
+C:\Users\valch\source\repos\MidExam\DeskOfCards\bin\Debug\netcoreapp3.1\DeskOfCards.exe
+C:\Users\valch\source\repos\MidExam\DeskOfCards\bin\Debug\netcoreapp3.1\DeskOfCards.deps.json
+C:\Users\valch\source\repos\MidExam\DeskOfCards\bin\Debug\netcoreapp3.1\DeskOfCards.runtimeconfig.json
+C:\Users\valch\source\repos\MidExam\DeskOfCards\bin\Debug\netcoreapp3.1\DeskOfCards.runtimeconfig.dev.json
+C:\Users\valch\source\repos\MidExam\DeskOfCards\bin\Debug\netcoreapp3.1\DeskOfCards.dll
+C:\Users\valch\source\repos\MidExam\DeskOfCards\bin\Debug\netcoreapp3.1\DeskOfCards.pdb
+C:\Users\valch\source\repos\MidExam\DeskOfCards\obj\Debug\netcoreapp3.1\DeskOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valch\source\repos\MidExam\DeskOfCards\obj\Debug\netcoreapp3.1\DeskOfCards.AssemblyInfoInputs.cache
+C:\Users\valch\source\repos\MidExam\DeskOfCards\obj\Debug\netcoreapp3.1\DeskOfCards.AssemblyInfo.cs
+C:\Users\valch\source\repos\MidExam\DeskOfCards\obj\Debug\netcoreapp3.1\DeskOfCards.csproj.CoreCompileInputs.cache
+C:\Users\valch\source\repos\MidExam\DeskOfCards\obj\Debug\netcoreapp3.1\DeskOfCards.dll
+C:\Users\valch\source\repos\MidExam\DeskOfCards\obj\Debug\netcoreapp3.1\DeskOfCards.pdb
+C:\Users\valch\source\repos\MidExam\DeskOfCards\obj\Debug\netcoreapp3.1\DeskOfCards.genruntimeconfig.cache
